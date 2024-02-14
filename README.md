@@ -16,6 +16,18 @@ However, when I attempt to filter results on the index page, the filter box cras
 
 <br>
 
+
+#### UPDATE 1
+I've updated nova to the latest version (v4.32.12). While there has been some improvement, **the bug still persists.**
+
+As shown in the attached video, when I open a menu for the first time and select an item, I encounter difficulty switching to other menus. Sometimes it takes several clicks to register, and occasionally, I'm unable to type anything in the menu at all.
+
+**Note:** Console errors have disappeared.
+
+
+https://github.com/laravel/nova-issues/assets/7619687/aacb9142-8063-46f8-b1af-b138cea7a534
+
+
 ----
 
 <br>
